@@ -11,16 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            
 
           
         }
-        class nueva
-        {
-            public int sfadfaumero = 1;
-            public char A;
-
-        }
+        
     }
 }
